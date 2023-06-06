@@ -1,6 +1,3 @@
-#https://www.saucedemo.com/  --> test için 
-#https://docs.pytest.org/en/7.1.x/example/simple.html  --> pytest dokumentasyon
-#test prefixine sahip olmalı
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pytest
